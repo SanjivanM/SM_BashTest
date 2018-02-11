@@ -1,0 +1,7 @@
+Either specify the URL from the command-line or configure a remote repository using 
+git remote add <name> <url>
+
+
+then push using remote name:
+
+git push <name>
