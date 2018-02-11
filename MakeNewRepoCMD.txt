@@ -1,0 +1,7 @@
+cd desk*/git*/sm*
+git init
+git add readme.md
+git add PushingRepoFromCMDLine_HowTo.txt
+git commit -m "test...?!"
+git remote add origin https://github.com/<UN>/<repo name>.git
+git push -u origin master
