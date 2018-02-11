@@ -7,5 +7,5 @@ then push using remote name:
 git push <name>
 
 
-https://github.com/SanjivanM/<name>
-git@github.com:SanjivanM/new_repo
+https://github.com/<UN>/<name>
+git@github.com:<UN>/new_repo
